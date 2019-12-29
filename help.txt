@@ -1,0 +1,2 @@
+Changing App Name: res/values/strings.xml ->
+Setting App Icon: Right click on App, then New, then Image Assets

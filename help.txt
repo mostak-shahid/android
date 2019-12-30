@@ -1,3 +1,8 @@
 Changing App Name: res/values/strings.xml ->
 Setting App Icon: Right click on App, then New, then Image Assets
 Changing like this before build: https://www.youtube.com/watch?v=x0UAuJno8Gw
+
+On android View
+->Menu or Option icon->uncheck (Compact Empty Middle Pacjages)
+->right click on the folder->select Refactor->Rename (Remane your name)->click refactor->do refactor
+->Gradle Scripts->build.gradle(Module:app)->Change Application ID
